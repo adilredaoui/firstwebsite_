@@ -1,0 +1,11 @@
+.button {
+    width: max-content;
+    background-color: var(--color-primary);
+    color: white;
+    font-size: 16px;
+    padding: 5px;
+    border-radius: var(--size-border-radius);
+    text-transform: uppercase;
+    cursor: pointer;
+    border: none;
+}
